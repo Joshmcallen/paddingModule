@@ -1,0 +1,19 @@
+{
+  "name": "paddingmodule",
+  "version": "1.0.0",
+  "description": "module that adds padding to a string to the left or right.",
+  "main": "dontPadMeBro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshmcallen/paddingModule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshmcallen/paddingModule/issues"
+  },
+  "homepage": "https://github.com/Joshmcallen/paddingModule#readme"
+}
